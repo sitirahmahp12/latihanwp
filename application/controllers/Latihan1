@@ -1,0 +1,14 @@
+<?php
+class latihan1 extends CI_controller
+{
+	
+	public function index()
+	{
+
+	     echo " selamat datang.. selamat belajar web programming";
+
+
+	}
+
+	
+}
